@@ -1,0 +1,30 @@
+[submodule "meridian_associator"]
+	path = meridian_associator
+	url = git@github.com:neoul-ro/meridian_associator.git
+[submodule "meridian_clip"]
+	path = meridian_clip
+	url = git@github.com:neoul-ro/meridian_clip.git
+[submodule "meridian_geobuilder"]
+	path = meridian_geobuilder
+	url = git@github.com:neoul-ro/meridian_geobuilder.git
+[submodule "meridian_geotracker"]
+	path = meridian_geotracker
+	url = git@github.com:neoul-ro/meridian_geotracker.git
+[submodule "meridian_graphcore"]
+	path = meridian_graphcore
+	url = git@github.com:neoul-ro/meridian_graphcore.git
+[submodule "meridian_msgs"]
+	path = meridian_msgs
+	url = git@github.com:neoul-ro/meridian_msgs.git
+[submodule "meridian_seg"]
+	path = meridian_seg
+	url = git@github.com:neoul-ro/meridian_seg.git
+[submodule "meridian_sensor"]
+	path = meridian_sensor
+	url = git@github.com:neoul-ro/meridian_sensor.git
+[submodule "meridian_slam"]
+	path = meridian_slam
+	url = git@github.com:neoul-ro/meridian_slam.git
+[submodule "meridian_updater"]
+	path = meridian_updater
+	url = git@github.com:neoul-ro/meridian_updater.git
