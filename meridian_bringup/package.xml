@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>meridian_bringup</name>
+  <version>0.1.0</version>
+  <description>Launch-only bringup package for the Meridian perception pipeline.</description>
+
+  <maintainer email="a_o@kakao.com">blu-y</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <exec_depend>meridian_sensor</exec_depend>
+  <exec_depend>meridian_seg</exec_depend>
+  <exec_depend>meridian_clip</exec_depend>
+  <exec_depend>meridian_slam</exec_depend>
+  <exec_depend>meridian_geobuilder</exec_depend>
+  <exec_depend>meridian_geotracker</exec_depend>
+  <exec_depend>meridian_associator</exec_depend>
+  <exec_depend>meridian_updater</exec_depend>
+  <exec_depend>meridian_graphcore</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
